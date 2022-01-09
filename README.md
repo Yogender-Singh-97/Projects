@@ -1,2 +1,3 @@
 # Projects
 This repository contains all projects
+1. Typing Tutor - developed using C++ and Visual Studio... Console based typing tutor..... 
